@@ -63,7 +63,7 @@ testing opens.
 
 ## Touch controls (Android)
 
-![Touch control icons](images/touch_icons.png)
+![Touch control icons]
 
 The buttons follow what the game is doing, whether you're exploring, aiming, in a QTE, in a menu,
 in the attaché case or in a cutscene:
